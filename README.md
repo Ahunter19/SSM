@@ -1,3 +1,1 @@
-# SSM
-This is a demo about git and github
-Hello World
+# SSM项目环境的整合
