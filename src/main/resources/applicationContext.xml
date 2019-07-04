@@ -13,7 +13,7 @@
        http://www.springframework.org/schema/aop
        http://www.springframework.org/schema/aop/spring-aop.xsd">
 
-    <!--导入外部配置文件-->s
+    <!--导入外部配置文件-->
     <context:property-placeholder location="classpath:jdbc.properties"/>
 
     <!--开启注解扫描-->

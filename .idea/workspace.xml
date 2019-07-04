@@ -7,8 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c893b7ed-4c6e-44e7-a936-22a1e038d3e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="364">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#1322#1338#0" expanded="true" />
                 <element signature="e#1380#1393#0" expanded="true" />
@@ -128,9 +127,9 @@
         <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/ahunter19/ssm/controller/AccountController.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/ahunter19/ssm/service/impl/AccountServiceImpl.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
       </list>
     </option>
   </component>
@@ -389,7 +388,7 @@
       <workItem from="1562059045630" duration="7108000" />
       <workItem from="1562216586293" duration="776000" />
       <workItem from="1562218188538" duration="11093000" />
-      <workItem from="1562252871157" duration="1948000" />
+      <workItem from="1562252871157" duration="2103000" />
     </task>
     <servers />
   </component>
@@ -426,7 +425,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22399000" />
+    <option name="totallyTimeSpent" value="22554000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -645,8 +644,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="364">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#1322#1338#0" expanded="true" />
             <element signature="e#1380#1393#0" expanded="true" />
@@ -706,7 +705,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|ssm</last-edited>
+          <last-edited>Web|ssm</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
