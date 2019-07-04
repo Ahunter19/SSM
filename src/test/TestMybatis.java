@@ -32,10 +32,10 @@ public class TestMybatis {
         SqlSessionFactory factory = new SqlSessionFactoryBuilder().build(inputStream);
 
         //创建sqlSession对象
-        SqlSession sqlSession = factory.openSession();
+        SqlSession session = factory.openSession();
 
         //获取到代理对象
-        AccountDao mapper = sqlSession.getMapper(AccountDao.class);
+        AccountDao mapper = session.getMapper(AccountDao.class);
 
         //调用方法
         List<Account> list = mapper.findAll();
@@ -44,7 +44,7 @@ public class TestMybatis {
         }
 
         //关闭资源
-        sqlSession.close();
+        session.close();
         inputStream.close();
     }
 
