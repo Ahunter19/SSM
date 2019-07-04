@@ -54,7 +54,7 @@ public class TestMybatis {
      * @throws Exception
      */
     @Test
-    public void runOne() throws Exception {
+    public void runTwo() throws Exception {
         //加载配置文件
         InputStream inputStream = Resources.getResourceAsStream("SqlMapConfig.xml");
 
